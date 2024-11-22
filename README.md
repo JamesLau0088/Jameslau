@@ -1,1 +1,2 @@
-# Jameslau
+# James lau
+# Welcome to my portfoilo
